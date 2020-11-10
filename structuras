@@ -1,4 +1,4 @@
-tipedef struct{
+typedef struct{
 char nombre[50];
 int costemana;
 int fuerzaYresistencia;
