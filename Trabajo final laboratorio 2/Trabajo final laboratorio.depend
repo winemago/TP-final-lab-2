@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1606408005 source:c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.c"
+
+1605052803 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\estructuras.c
+	<stdio.h>
+
+1606407911 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\cartascoleccion.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"CartasColeccion.h"
+	"string.h"
+
+1606406654 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\cartascoleccion.h
+
+1606400490 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\estructuras.h
+
+1606403702 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\torneos.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"Torneos.h"
+	"string.h"
+
+1606365116 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\torneos.h
+
+1606365362 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\menus.c
+	"Menu.h"
+
+1606266666 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\menus.h
+
+1606366085 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\menu.h
+
+1606365531 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\decks.h
+
+1606408278 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\menu.c
+	"Menu.h"
+	"Estructuras.c"
+	"CartasColeccion.c"
+	"Torneos.c"
+	"Decks.c"
+
+1606407296 c:\users\ignac\onedrive\escritorio\trabajo final laboratorio\decks.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"Decks.h"
+	"CartasColeccion.h"
+
+1606408005 source:c:\users\piero\desktop\trabajo final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.c"
+
+1606449529 c:\users\piero\desktop\trabajo final laboratorio\menu.c
+	"Menu.h"
+	"Estructuras.c"
+	"CartasColeccion.c"
+	"Torneos.c"
+	"Decks.c"
+
+1606366085 c:\users\piero\desktop\trabajo final laboratorio\menu.h
+
+1605052803 c:\users\piero\desktop\trabajo final laboratorio\estructuras.c
+	<stdio.h>
+
+1606407911 c:\users\piero\desktop\trabajo final laboratorio\cartascoleccion.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"CartasColeccion.h"
+	"string.h"
+
+1606423419 c:\users\piero\desktop\trabajo final laboratorio\estructuras.h
+
+1606406654 c:\users\piero\desktop\trabajo final laboratorio\cartascoleccion.h
+
+1606403702 c:\users\piero\desktop\trabajo final laboratorio\torneos.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"Torneos.h"
+	"string.h"
+
+1606365116 c:\users\piero\desktop\trabajo final laboratorio\torneos.h
+
+1606444165 c:\users\piero\desktop\trabajo final laboratorio\decks.c
+	"Estructuras.c"
+	"Estructuras.h"
+	"Decks.h"
+	"CartasColeccion.h"
+
+1606444165 c:\users\piero\desktop\trabajo final laboratorio\decks.h
+
